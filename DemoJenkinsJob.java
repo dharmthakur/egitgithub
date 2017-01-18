@@ -7,6 +7,7 @@ public class DemoJenkinsJob {
 	@Test
 	public void testJenkins(){
 		System.out.println("welcome");
+                System.out.println("dharmendra");
 		
 	}
 
